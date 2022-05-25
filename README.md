@@ -3,10 +3,10 @@
 ## Our vision
 Absolute Zero Knowledge Trust
 
-## Who we are: 
+## Who we are
 We are a small team who build this data management and backup app on top of the concept "Absolute Zero Knowledge Trust". 
 
-## Waht we do: 
+## Waht we do
 We created this open source project to realize the vision. In the first phase, we are building this a0ktrust tool to support sync, backup and restore data, include photo address book and related files on the following platforms
 
 1. Iphone
